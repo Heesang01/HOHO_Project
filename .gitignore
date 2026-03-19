@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# 가상환경
+.venv/
+venv/
+env/
+
+# 데이터 파일
+*.csv
+*.xlsx
+*.zip
+*.ipynb_checkpoints/
+
+# IDE 설정
+.vscode/
+.idea/
