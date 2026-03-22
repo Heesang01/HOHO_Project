@@ -22,7 +22,3 @@ env/
 .idea/
 
 *copy.ipynb
-
-# 유령 파일
-git clean -f "*은*.ipynb"
-!은솔_.ipynb
