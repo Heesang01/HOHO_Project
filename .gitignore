@@ -20,3 +20,7 @@ env/
 # IDE 설정
 .vscode/
 .idea/
+
+"전처리통합 copy.ipynb"
+"은솔.ipynb"
+*copy.ipynb
